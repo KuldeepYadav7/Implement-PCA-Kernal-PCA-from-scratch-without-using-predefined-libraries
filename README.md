@@ -1,0 +1,1 @@
+# Implement-PCA-Kernal-PCA-from-scratch-without-using-predefined-libraries
